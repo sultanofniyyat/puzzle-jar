@@ -17,5 +17,6 @@
  "MIN_IOS": "iOS 15 or newer",
  "MIN_ANDROID": "Android 7.0 or newer",
  "AGE_RATING_SHORT": "4+",
- "IOS_SIZE": "about 106 MB"
+ "IOS_SIZE": "about 106 MB",
+ "BING_VERIFY": "E8CF42C0FDFDAFF0727C7E30FE588F0A"
 }
