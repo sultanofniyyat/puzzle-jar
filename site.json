@@ -1,0 +1,21 @@
+{
+ "_README": "Every app-wide fact the site states lives here ({{KEY}} in pages). When the game changes, change it here, run python3 build.py, commit and push.",
+ "GAME_NAME": "Puzzle Jar",
+ "STUDIO": "Sultan of Niyyat",
+ "SITE_URL": "https://sultanofniyyat.github.io/puzzle-jar",
+ "SUPPORT_EMAIL": "sultanofniyyat@gmail.com",
+ "GOOGLE_VERIFY": "Q8Zf4eJNs_tvKh-12-a9vC2hLInRSNZl83JEt1qv7b0",
+ "APPSTORE_URL": "https://apps.apple.com/app/id6823780719",
+ "PLAY_URL": "https://play.google.com/store/apps/details?id=com.sultanofniyyat.arrowrush.game",
+ "APPSTORE_NAME": "Puzzle Jar: Unscrew & Untangle",
+ "PLAY_NAME": "Puzzle Jar: Offline Games",
+ "SUPPORT_URL": "https://sultanofniyyat.github.io/route-duel-privacy/support/",
+ "PRIVACY_IOS_URL": "https://sultanofniyyat.github.io/route-duel-privacy/",
+ "PRIVACY_ANDROID_URL": "https://sultanofniyyat.github.io/route-duel-privacy/android/",
+ "TAGLINE": "20 calm puzzle games in one free app. Plays offline, no account needed.",
+ "ONE_LINE": "a free iPhone and Android app with 20 shape-and-colour puzzle games in one place: unscrew bolts, sort nuts and sweets, match buttons, untangle strings of lights, pop bubbles and more, all playable offline",
+ "MIN_IOS": "iOS 15 or newer",
+ "MIN_ANDROID": "Android 7.0 or newer",
+ "AGE_RATING_SHORT": "4+",
+ "IOS_SIZE": "about 106 MB"
+}
