@@ -232,7 +232,7 @@ It gives the card one more space, eight instead of seven, so a full card has roo
 
 ### How hard does Button Tin get?
 
-Level 1 has nine buttons of three kinds and cannot be lost. Piles then grow slowly, to roughly 70 to 96 buttons, with more kinds and more layers, and boss levels add more buttons, an extra layer and one more kind on top of a normal hard level. We measure every level with 400 simulated players; on hard and boss levels, at least 70% of those who get stuck can still win with one extra space.
+Level 1 has nine buttons of three kinds and cannot be lost. Piles then grow slowly, to roughly 70 to 96 buttons, with more kinds and more layers, and boss levels add more buttons, an extra layer and one more kind on top of a normal hard level.
 
 ### Is Button Tin like a mahjong or triple tile match game?
 
@@ -294,7 +294,7 @@ Both are color sorts, but Sweet Stacks uses jars that all hold four, while Nut S
 
 ### How hard does Nut Sort get?
 
-Level 1 has three colors and cannot be lost, and levels 1 to 5 are easy or medium. Colors build up to a maximum of 10, each with its own symbol on the nut and the cap. We measured the normal level set with 400 simulated players: hard levels leave 35 to 64% of them stuck, bosses 59 to 78%, and one extra bolt saves at least 89% of stuck players on any hard level.
+Level 1 has three colors and cannot be lost, and levels 1 to 5 are easy or medium. Colors build up to a maximum of 10, each with its own symbol on the nut and the cap.
 
 ## Bead Swap: the match-3 game
 
@@ -772,7 +772,7 @@ Beside the stacks whose top color it matches, and away from colors it would bloc
 
 ### How many empty cells should I keep free?
 
-As many as you can, and never count on the last one. All three stacks in the tray need a home before new ones arrive, so a comb with one or two free cells can be lost even when it looks fine. Placing really matters here: when we tested a player who drops stacks anywhere, it won about 2% of hard levels and no boss levels at all.
+As many as you can, and never count on the last one. All three stacks in the tray need a home before new ones arrive, so a comb with one or two free cells can be lost even when it looks fine.
 
 ### What are the dark locked cells in Honey Hive?
 
@@ -788,7 +788,7 @@ It shows which tray stack to drop and on which cell. To pick it, the game tries 
 
 ### What does the bee rescue do?
 
-Bees fly in and carry off the most mixed-up stacks on the comb, between 2 and 6 depending on the level, which clears room to keep going. Each level allows two. The first is offered for an optional video; if you skip that or want a second, it is paid from your stock of rescues. On hard and boss levels we set the number of stacks lifted so that at least 70% of stuck players can still win.
+Bees fly in and carry off the most mixed-up stacks on the comb, between 2 and 6 depending on the level, which clears room to keep going. Each level allows two. The first is offered for an optional video; if you skip that or want a second, it is paid from your stock of rescues.
 
 ### Can I undo a drop in Honey Hive?
 
@@ -908,15 +908,15 @@ It shows the tap our careful player would make. To choose it, the game takes the
 
 ### What does a rescue give you in Balloon Bunch?
 
-Five extra moves. Two are allowed per level, and one of them can be earned by watching a video instead of spending a rescue you own. In our normal level set, at least 80% of the stuck computer test players on every hard level won after one rescue, and at least 72% on boss levels; the gentler and tougher sets are held to at least 70%.
+Five extra moves. Two are allowed per level, and one of them can be earned by watching a video instead of spending a rescue you own.
 
 ### Can you get through Balloon Bunch by tapping anything?
 
-Only on the early levels. In our tests, tapping at random won about 19% of easy plays, 6% of medium, 1% of hard and none on boss levels. The balloons that rise in are the same on every try of a level, and when no bunch is left they swap colors the same way each time, so careful play is what gets you through, not luck.
+Only on the early levels. The balloons that rise in are the same on every try of a level, and when no bunch is left they swap colors the same way each time, so careful play is what gets you through, not luck.
 
 ### How tough are the boss levels in Balloon Bunch?
 
-Tough: a boss comes every fourth hard level, and in our normal level set about 61-77% of our computer test players got stuck on a boss at the first try, against about 35-58% on ordinary hard levels. If you win easily, the game moves you to a tougher set where those numbers are higher. Levels come in rounds of easy, medium and hard, so a breather always follows. The start is gentle: level 1 asks for 14 blue stars in 31 moves and can't be lost.
+Tough by design: a boss comes every fourth hard level, and most players need more than one try or a rescue on them. If you win easily, the game moves you to a tougher level set. Levels come in rounds of easy, medium and hard, so a breather always follows. The start is gentle: level 1 asks for 14 blue stars in 31 moves and can't be lost.
 
 ## Tide Pool: the rising-rows blast puzzle
 
@@ -970,7 +970,7 @@ No. In many classic rising-row games, new rows creep up on a clock, so speed mat
 
 ### Does Tide Pool get harder later on?
 
-Level 1 is a 7 by 10 pool with four kinds of creature, a row every 5 taps and a goal of 12 fish; it can't be lost. In our normal level set, hard levels get about 35-60% of our computer test players stuck on a first try, and boss levels about 58-79%. Tapping at random won 80% of easy plays in our tests but only 8% of hard ones, so the later levels really do ask for planning.
+Level 1 is a 7 by 10 pool with four kinds of creature, a row every 5 taps and a goal of 12 fish; it can't be lost.
 
 ## Garland Tangle: the untangle puzzle
 
@@ -1016,7 +1016,7 @@ It rings one lantern and one post: the first move of a short line that untangles
 
 ### What does a rescue give in Garland Tangle?
 
-Four more moves, up to twice on a level. The first can be paid for with an optional video, the second with one of your shared rescues. In our normal level set, about 84% or more of the stuck computer test players won with one rescue on every hard level, and about 74% or more on boss levels.
+Four more moves, up to twice on a level. The first can be paid for with an optional video, the second with one of your shared rescues.
 
 ### Can I undo a lantern move?
 
@@ -1024,7 +1024,7 @@ Yes. Take back returns the last lantern to its old post and gives you the move b
 
 ### How hard does Garland Tangle get?
 
-Level 1 has 4 lanterns, 3 strings and one crossing, solved in one move out of the 16 it gives, and it can't be lost. Boards grow to 11 posts, 10 lanterns and 13 strings. In our normal level set, about 38-61% of our computer test players got stuck on a hard level at the first try, and about 57-76% on a boss.
+Level 1 has 4 lanterns, 3 strings and one crossing, solved in one move out of the 16 it gives, and it can't be lost. Boards grow to 11 posts, 10 lanterns and 13 strings.
 
 ### Is Garland Tangle a good puzzle for adults who like logic?
 
@@ -1086,7 +1086,7 @@ Yes. Every color carries its own white mark: a heart on red, a cloud on blue, a 
 
 ### How big do Bubble Picnic fields get?
 
-Up to 9 bubbles wide and 13 rows deep, with as many as 6 colors. Level 1 is tiny by comparison: 2 rows and 3 colors, 13 bubbles to clear with 45 to shoot, and none of 400 computer test players lost it. In our normal level set, about 35-65% of them got stuck on a hard level at the first try. Shooting anywhere without aiming won just 1% of easy plays and nothing beyond that.
+Up to 9 bubbles wide and 13 rows deep, with as many as 6 colors. Level 1 is tiny by comparison: 2 rows and 3 colors, 13 bubbles to clear with 45 to shoot, and none of 400 computer test players lost it.
 
 ### Is Bubble Picnic like the classic bubble shooters?
 
@@ -1198,7 +1198,7 @@ The level plays again, or you can use a rescue. A rescue takes you back a few mo
 
 ### How hard does Route Duel get?
 
-Levels come in rounds of easy, medium and hard, with every fourth hard level a boss and an easy level after each hard one. We measured every board with computer players: about 3-13% lose an easy level, about 35-61% a hard one and up to about 86% a boss on the first try. Big pictures with many routes take more planning.
+Levels come in rounds of easy, medium and hard, with every fourth hard level a boss and an easy level after each hard one. Big pictures with many routes take more planning.
 
 ### Why is Route Duel the last game on the level road?
 
@@ -1336,7 +1336,7 @@ Yes. Puzzle Jar grew out of Route Duel, and the old "unlimited hints" and "unlim
 
 ### Are there cheats or promo codes for Puzzle Jar?
 
-No. We don't run promo codes, and there are no cheat codes in the game. Sites that offer "free hint generators" for puzzle games are not connected to us and cannot add anything to your phone; avoid giving them your details. The free ways to get helpers are the real ones: fill the jar with 10 wins for one hint, one take back and one rescue, or watch an optional video for one more.
+No. There are no cheat codes, and the game has no box to type a code into. Sites that offer "free hint generators" for puzzle games are not connected to us and cannot add anything to your phone; avoid giving them your details. The free ways to get helpers are the real ones: fill the jar with 10 wins for one hint, one take back and one rescue, or watch an optional video for one more.
 
 ## Playing Puzzle Jar offline, with no wifi
 

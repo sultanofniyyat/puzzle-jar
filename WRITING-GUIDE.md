@@ -1,7 +1,6 @@
 # Writing guide for the Puzzle Jar website (read in full before writing a page)
 
-Facts: `/private/tmp/claude-501/-Users-bilalsultan-Documents-Unity-Workspace-iOS-Route-Duel/09ae1271-afb6-4cbb-b19b-4ce5204a9754/scratchpad/facts.md`
-(copy kept in research/facts.md). Research: research/RESEARCH.md. Real Google search wording:
+Facts: research/facts.md (kept on this Mac only, not in the public repo). Research: research/RESEARCH.md. Real Google search wording:
 research/google-suggestions-2026-11-24.txt. Example page to copy in format and voice: content/10-bolts-and-jars.html.
 
 ## Why these rules
